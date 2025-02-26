@@ -1,16 +1,20 @@
-## Hi there 👋
+# 💻 ¡Hola, soy Jose Terzano!  
 
-<!--
-**JoseTerzano/JoseTerzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥️ Sobre mí  
+Soy estudiante de **Ciencias de la Computación** en la **Universidad Nacional de San Juan**. Me apasiona la programación, la optimización de código y la resolución de problemas.  
 
-Here are some ideas to get you started:
+### 🚀 Tecnologías y herramientas  
+📌 **Lenguajes:** Python, C++, JavaScript 
+📌 **Desarrollo y algoritmos:** Optimización, estructuras de datos, automatización.  
+📌 **Intereses:** desarrollo web, seguridad informática.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estadísticas de GitHub  
+https://github-readme-stats.vercel.app/api?username=JoseTerzano&show_icons=true&theme=dark 
+
+### 📫 Contacto  
+📧 **Email:** joseterzano@gmail.com 
+💼 **LinkedIn:** (https://www.linkedin.com/in/jose-terzano-025a4b2b5/)
+
+---
+
+¡Siempre aprendiendo y buscando nuevos desafíos! 🚀  
